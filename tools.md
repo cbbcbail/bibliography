@@ -5,10 +5,7 @@ nocite: "@*"
 csl: ieee.csl
 ---
 
-# Annotated Bibliography of Tabular Visualization
-
-
-## Tabular Visualization Tools
+# Tabular Visualization Tools
 
 * A tool for producing tables from the National Bureau of Economic Statistics in 1975 including options for displaying the table and features of the table producing language.
 
@@ -73,88 +70,3 @@ csl: ieee.csl
 * Integrated visualization techniques for hierarchical tables.
 
     [@liHiTailorInteractiveTransformation2023]
-
-
-## Understanding of Tabular Visualization
-
-* Gives some indication of how tables are perceived but not experimentally based. Also gives indications of how tables are used and should be designed but not experimentally based.
-
-    __J. Bertin__, "Semiologie Graphique", __1967__
-
-* Perception of bar charts, pie charts, and tables for the task of comparing proportions of components and combinations of components. They found poor performance for tables compared with the two summary visualizations for such tasks. They did not find ordering to have a significant effect on the task performance.
-
-    [@spenceDisplayingProportionsPercentages1991]
-
-* Survey paper of perception studies for visualizations including tabular visualizations.
-
-    [@quadriSurveyPerceptionBasedVisualization2022]
-
-* Comparison of task performance on value retrieval, range, correlation, and a decision task comparing parallel coordinates, scatterplot matrix and tabular visualizations found that tables perform well for in terms of speed and accuracy for decision based tasks.
-
-    [@dimaraConceptualMethodologicalIssues2018]
-
-
-* Comparison of Amar-Eagan-Stasko low level task performances for tables, bar charts, pie charts, scatterplots and line charts reporting user accuracy, speed and preferences found that tables perform well for retrieval and computation tasks compared to other basic charts.
-
-    [@saketTaskBasedEffectivenessBasic2019]
-
-* Includes experiments comparing tables, bar tables, and bar charts for comparing ratio tasks. The findings show that tables promote unbiased reasoning and avoid problems of confirmation bias in comparison with bar charts by promoting the use of the ratio strategy.
-
-    [@xiongReasoningAffordancesTables2022]
-
-
-## Design and Uses of Tabular Visualization
-
-* Gives some indication of how tables are perceived but not experimental results. Also gives indications of how tables are used and should be designed but again not experimental results.
-
-    __J. Bertin__, "Semiologie Graphique", __1967__
-
-* Includes notions of both good and bad table design practices but is asserted without experimental results. Asserts that ordering can be important in improving tabular visualization.
-
-    [@ehrenbergRudimentsNumeracy1977]
-
-    * Website with guidelines based on this work: [Guidelines for Designing Tables](https://understandinggraphics.com/design/data-table-design/)
-
-* Tufte includes advice on the design and uses of tabular visualization although he makes a lot of assertions without experimental evidence.
-
-    __E. Tufte__ "The visual display of quantitative information", _Graphics Press_, __1983__.
-
-* The Derivation Problem for Summary Data.
-
-    [@malvestutoDerivationProblemSummary1988]
-
-* Includes notions of good and bad table design practices, and includes some theory about what you can and can't do with tabular visualizations.
-
-    [@wainerUnderstandingGraphsTables1992]
-
-* Includes a discussion of designing tables based on goals.
-
-    [@wainerImprovingTabularDisplays1997]
-
-* Ubiquity and uses of tables as spreadsheets and online visualizations.
-
-    [@koestenTrialsTribulationsWorking2017]
-
-* How interactive tables and spreadsheets are used by data workers and how effective they are: Untidy Data.
-
-    [@bartramUntidyDataUnreasonable2022]
-
-* An analysis with design and experiments of the accessibility of web tables for blind and low vision users.
-
-    [@wangWhatMakesWeb2022]
-
-## Psychological Model of Visualization
-
-
-## History of Tabular Visualization
-
-* The history of tables are explored through the examples of four early tables from 1900 BCE to 1300 CE.
-
-    [@marcheseExploringOriginsTables2011]
-
-
-## Other
-
-* Synopses for Massive Data: Samples, Histograms, Wavelets, Sketches
-* E^3: Towards the Metrication of Graphical Presentation Techniques for Large Data Sets
-* How Numbers Are Shown: A Review of Research on the Presentation of Quantitative Data
