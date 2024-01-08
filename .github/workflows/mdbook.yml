@@ -26,8 +26,8 @@ jobs:
     env:
       MDBOOK_VERSION: 0.4.36
     steps:
-      - uses: docker://pandoc/core:3.1
       - uses: actions/checkout@v4
+      - uses: docker://pandoc/core:3.1
         with:
           args: >-  # allows you to break string into multiple lines
             -t markdown_strict
