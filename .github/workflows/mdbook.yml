@@ -27,12 +27,12 @@ jobs:
       MDBOOK_VERSION: 0.4.36
     steps:
       - uses: docker://pandoc/core:3.1
+      - uses: actions/checkout@v4
         with:
           args: >-  # allows you to break string into multiple lines
             -t markdown_strict
             --citeproc ./AnnotatedBibliography.md
             -o ./src/AnnotatedBibliography.md
-      - uses: actions/checkout@v4
       - name: Install mdBook
         run: |
           curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
