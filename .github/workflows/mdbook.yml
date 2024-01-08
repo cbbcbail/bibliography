@@ -31,8 +31,32 @@ jobs:
         with:
           args: >-  # allows you to break string into multiple lines
             -t markdown_strict
-            --citeproc ./AnnotatedBibliography.md
-            -o ./src/AnnotatedBibliography.md
+            --citeproc ./tools.md
+            -o ./src/tools.md
+      - uses: docker://pandoc/core:3.1
+        with:
+          args: >-  # allows you to break string into multiple lines
+            -t markdown_strict
+            --citeproc ./understanding.md
+            -o ./src/understanding.md
+      - uses: docker://pandoc/core:3.1
+        with:
+          args: >-  # allows you to break string into multiple lines
+            -t markdown_strict
+            --citeproc ./designAndUses.md
+            -o ./src/designAndUses.md
+      - uses: docker://pandoc/core:3.1
+        with:
+          args: >-  # allows you to break string into multiple lines
+            -t markdown_strict
+            --citeproc ./history.md
+            -o ./src/history.md  
+      - uses: docker://pandoc/core:3.1
+        with:
+          args: >-  # allows you to break string into multiple lines
+            -t markdown_strict
+            --citeproc ./other.md
+            -o ./src/other.md
       - name: Install mdBook
         run: |
           curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
