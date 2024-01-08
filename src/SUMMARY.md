@@ -1,3 +1,3 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Annotated Bibliography](./AnnotatedBibliography.md)
