@@ -31,7 +31,7 @@ jobs:
         with:
           args: >-  # allows you to break string into multiple lines
             -t markdown_strict
-            --citeproc ./tools.md
+            --citeproc ./estimation.md
             -o ./src/estimation.md
       - name: Install mdBook
         run: |
