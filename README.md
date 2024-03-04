@@ -1,6 +1,6 @@
 # [Annotated Bibliography of Tabular Visualization](https://pages.graphics.cs.wisc.edu/Tables/)
 
-This repository contains an annotated bibliography of literature related to tabular visualization. The literature is organized into categories and sorted by date of publication within categories. A short summary, and notes about how the work relates to - and is interesting or important to - our particular interests is followed by a citation in IEEE format. The author and year are emphasized for easy lookup and the DOI links are provided.
+This repository contains an annotated bibliography of literature related to estimation in visualization. The literature is organized into categories and sorted by date of publication within categories. A short summary, and notes about how the work relates to - and is interesting or important to - our particular interests is followed by a citation in IEEE format. The author and year are emphasized for easy lookup and the DOI links are provided.
 
 ## Generating the Annotated Bibliography
 
