@@ -7,6 +7,10 @@ csl: ieee.csl
 
 # Studies on Estimation in Visualization
 
+* Two user studies conducting perception estimation tasks of visual variables on tiled, high-resolution wall-sized displays. The authors compare estimation error for various viewing distances, angles, and sizes in both fixed position and free movement studies. The results show that performance was best when the information was in full view despite being farther away or with smaller objects to compare. viewing distance affected area and angle estimations but not length, and lower locations performed differently than other locations. Allowing subjects to have free movement increased time but did not provide meaningful accuracy improvements. 
+
+    [@bezerianosPerceptionVisualVariables2012]
+
 * Motivated by exploratory, overview stages of data analysis, the authors propose a method to allow for estimation of data values in radial axis charts (e.g. star coordinates and RadVis) where data is inevitably lost during the transformation. Calibrating (labelling) and centering data in star coordinate plots considerably increases attribute estimation accuracy.
 
     [@rubio-sanchezAxisCalibrationImproving2014]
