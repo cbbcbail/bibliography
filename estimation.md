@@ -21,7 +21,7 @@ csl: ieee.csl
 
 * Conducted a series of experiments that compare the performance of pie charts and horizontal stacked bar charts with various visual cues for estimating viewer estimation of part-whole relationships. The charts have two segments each and the viewer must estimate the value of the indicated part in the pie chart or the stacked bar chart. Findings show visual cues in stacked bar charts improve accuracy, pie charts outperform stacked bar charts, and that there is evidence of natural visual anchors in the baseline charts that subjects are using with pie charts.
 
-    [@redmondVisualCuesEstimation2019b]
+    [@redmondVisualCuesEstimation2019]
 
 * A study of the estimation performance of clusters in six multidimensional data sets with eight multidimensional projection techniques. in terms of estimation accuracy. A comparison between experts and novices did not find a statistically significant difference.
 

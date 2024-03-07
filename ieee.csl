@@ -316,27 +316,25 @@
       <!-- Rest of Citation -->
       <choose>
         <!-- Specific Formats -->
-		<else-if type="article-journal">
-			<group delimiter=", ">
-				<text macro="title"/>
-				<text macro="author"/>
-				<text variable="container-title" font-style="italic" form="short"/>
-				<text macro="locators"/>
-				<text macro="page"/>
-				<text macro="issued"/>
-				<text macro="status"/>
-			</group>
-			<choose>
-				<if variable="URL DOI" match="none">
-				<text value="."/>
-				</if>
-				<else>
-				<text value=","/>
-				</else>
-			</choose>
-			<text macro="access"/>
-		</else-if>
-
+        <if type="article-journal">
+          <group delimiter=", ">
+            <text macro="title"/>
+            <text variable="container-title" font-style="italic" form="short"/>
+            <text macro="locators"/>
+            <text macro="page"/>
+            <text macro="issued"/>
+            <text macro="status"/>
+          </group>
+          <choose>
+            <if variable="URL DOI" match="none">
+              <text value="."/>
+            </if>
+            <else>
+              <text value=","/>
+            </else>
+          </choose>
+          <text macro="access"/>
+        </if>
         <else-if type="paper-conference speech" match="any">
           <group delimiter=", " suffix=", ">
             <text macro="title"/>
