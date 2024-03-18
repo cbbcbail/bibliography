@@ -31,6 +31,12 @@ jobs:
         with:
           args: >-  # allows you to break string into multiple lines
             -t markdown_strict
+            --citeproc ./partWhole.md
+            -o ./src/partwhole.md
+      - uses: docker://pandoc/core:3.1
+        with:
+          args: >-  # allows you to break string into multiple lines
+            -t markdown_strict
             --citeproc ./estimation.md
             -o ./src/estimation.md
       - name: Install mdBook
