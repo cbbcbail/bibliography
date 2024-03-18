@@ -1,5 +1,5 @@
 ---
-bibliography: Estimation.bib
+bibliography: Part-Whole.bib
 nocite: "@*"
 <!-- link-citations: true -->
 csl: ieee.csl
