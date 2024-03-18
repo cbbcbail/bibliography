@@ -28,6 +28,54 @@ csl: ieee.csl
 
 [@croxtonBarChartsCircle1927]
 
+### Graphic Comparisons by Bars, Squares, Circles, and Cubes
+#### Croxton, 1932
+
+[@croxtonGraphicComparisonsBars1932a]
+
+### How Accurately Are Different Kinds of Graphs Read?
+#### Peterson and Schramm, 1954
+
+[@petersonHowAccuratelyAre1954]
+
+### A Study of Graph Comprehension Difficulties
+#### Culbertson and Powers, 1959
+
+[@culbertsonStudyGraphComprehension1959]
+
+### Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods
+#### Cleveland and McGill, 1984
+
+[@clevelandGraphicalPerceptionTheory1984]
+
+### Graphical Perception and Graphical Methods for Analyzing Scientific Data
+#### Cleveland and McGill, 1985
+
+[@clevelandGraphicalPerceptionGraphical1985]
+
+### Graphical Perception: The Visual Decoding of Quantitative Information on Graphical Displays of Data
+#### Cleveland and McGill, 1987
+
+[@clevelandGraphicalPerceptionVisual1987]
+
+
+### An Information-Processing Analysis of Graph Perception
+#### Simkin and Hastie, 1987
+
+* The authors conduct studies comparing bar, stacked bar and pie charts with two segments on proportion (the percentage of the segment relative to the whole), comparison (the percentage the smaller segment was of the larger), and discrimination tasks (the larger of the two segments). In the first experiment the subjects were given a 1 or half second viewing time and in the second experiment they answered at their own pace. As expected, the pie chart performed well for the proportion tasks while the bar chart performed well for the comparison and discrimination tasks. They then propose schematic summaries pairing their results with prior work to combine scanning, projection, superimposition, and detection operators to the three tasks and charts in the studies. They propose that the proportion task uses anchoring then scanning, comparison uses projection, then anchoring, then scanning for bar charts but requires superimposition, then anchoring, then scanning for the stacked bar and pie charts. The suppose that anchoring is the key process for the proportion task and pie charts salient 0, 90, 180 degree anchors support this well explaining the advantage. They claim that angles provide the least accurate estimates because of the inferior anchoring when not at perceptually salient angles.
+
+[@simkinInformationProcessingAnalysisGraph1987]
+
+### The Perception of Statistical Graphs
+#### Lewandowsky and Spence, 1989
+
+[@lewandowskyPerceptionStatisticalGraphs1989]
+
+### Displaying Proportions and Percentages
+#### Spence and Lewandowsky, 1991
+
+[@spenceDisplayingProportionsPercentages1991a]
+
 ### Save the Pies for Dessert
 #### Few, 2007
 
@@ -35,12 +83,32 @@ csl: ieee.csl
 
 [@fewPiesDessert2007]
 
+### Crowdsourcing graphical perception: using mechanical turk to assess visualization design
+#### Heer and Bostock, 2010
+
+[@heerCrowdsourcingGraphicalPerception2010]
+
+### Do Mechanical Turks dream of square pie charts?
+#### Kosara, 2010
+
+[@kosaraMechanicalTurksDream2010]
+
+### No Humble Pie: The Origins and Usage of a Statistical Chart
+#### Spence, 2005
+
+[@spenceNoHumblePie2005]
+
 ### Judgment Error in Pie Chart Variations
 #### Kosara, 2016
 
 * The authors conducted a study comparing four variations of pie charts to a standard pie chart acting and a control. The variations were an expanded slice, an exploded pie, an elliptical pie and a square pie. They find that all variations cause an increase in error including those that do not distort the central angle. They find no change in response time and are unable to show a difference between models for angle, arc, or area compared with the results. This supports the idea that all three methods are used in estimating values from pie charts.
 
 [@kosaraJudgmentErrorPie2016]
+
+### An Empire Built On Sand: Reexamining What We Think We Know About Visualization
+#### Kosara, 2016
+
+[@kosaraEmpireBuiltSand2016]
 
 ### Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts
 #### Skau and Kosara, 2016
@@ -62,3 +130,13 @@ csl: ieee.csl
 * The author conducted a series of studies comparing the performance of pie charts and horizontal stacked bar charts with various visual cues for estimating viewer estimation of part-whole relationships. The charts have two segments each and the viewer must estimate the value of the indicated part in the pie chart or the stacked bar chart. The findings show visual cues in stacked bar charts improve accuracy, pie charts outperform stacked bar charts, and that there is evidence of natural visual anchors in baseline pie charts that subjects are using with pie charts.
 
 [@redmondVisualCuesEstimation2019]
+
+### Circular Part-to-Whole Charts Using the Area Visual Cue
+#### Kosara, 2019
+
+[@kosaraCircularParttoWholeCharts2019]
+
+### The Impact of Distribution and Chart Type on Part-to-Whole Comparisons
+#### Kosara, 2019
+
+[@kosaraImpactDistributionChart2019]
