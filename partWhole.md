@@ -5,7 +5,7 @@ nocite: "@*"
 csl: ieee.csl
 ---
 
-# Studies on Part-Whole Visualization
+# Works related to Part-Whole Visualization
 
 ### The Relative Merits of Circles and Bars for Representing Component Parts
 #### Eells, 1926
