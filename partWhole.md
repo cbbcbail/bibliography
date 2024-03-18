@@ -7,8 +7,8 @@ csl: ieee.csl
 
 # Works related to Part-Whole Visualization
 
-## The Relative Merits of Circles and Bars for Representing Component Parts
-### Eells, 1926
+### The Relative Merits of Circles and Bars for Representing Component Parts
+#### Eells, 1926
 
 * The author conducted studies comparing estimation of parts with pie chart and bar chart visualizations. Students in a college course were given a sheet containing a series of pie charts and were asked to label the parts in each chart. The following week they did the same with a sheet of bar charts. Speed is measured by how many charts the student has completed after 5 minutes in the 13 minute experiment. The time spent on pie charts is very similar to bar charts with pie charts being slightly faster. Pie charts were found to outperform bar charts in terms of accuracy where they had smaller error and fewer large errors (greater than 3 points) than bar charts. The author concludes the pie chart is the superior choice for this task contrary to many cited works describing their inferiority without evidence.
 
@@ -75,6 +75,22 @@ csl: ieee.csl
 #### Spence and Lewandowsky, 1991
 
 [@spenceDisplayingProportionsPercentages1991a]
+
+### Judgments of Change and Proportion in Graphical Perception
+#### Hollands and Spence, 1992
+
+[@hollandsJudgmentsChangeProportion1992]
+
+
+### Judging Proportion with Graphs: The Summation Model
+#### Hollands and Spence, 1998
+
+[@hollandsJudgingProportionGraphs1998]
+
+### Bias in Proportion Judgments: The Cyclical Power Model
+#### Hollands and Dyer, 2000
+
+[@hollandsBiasProportionJudgments2000]
 
 ### Save the Pies for Dessert
 #### Few, 2007
