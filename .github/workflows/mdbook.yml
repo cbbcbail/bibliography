@@ -39,6 +39,12 @@ jobs:
             -t markdown_strict
             --citeproc ./estimation.md
             -o ./src/estimation.md
+      - uses: docker://pandoc/core:3.1
+        with:
+          args: >-  # allows you to break string into multiple lines
+            -t markdown_strict
+            --citeproc ./rounding.md
+            -o ./src/rounding.md
       - name: Install mdBook
         run: |
           curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
